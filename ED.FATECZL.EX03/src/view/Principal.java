@@ -19,7 +19,7 @@ public static void main(String[] args) {
 		System.out.println(e2.CBinario(199));
 		System.out.println(e3.RecD(6));
 		System.out.println(e4.VDig(1223254, 2));
-		//System.out.println(e5.Fibo(5));
+		System.out.println(e5.Fibo(5));
 		System.out.println(e6.RecD(6));
 	}
 }
